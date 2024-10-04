@@ -30,6 +30,7 @@
 		C05FD6DD2CA8777D00FE86DE /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05FD6DC2CA8777800FE86DE /* HeaderView.swift */; };
 		C05FD6DF2CA8824000FE86DE /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05FD6DE2CA8823300FE86DE /* TLButton.swift */; };
 		C0EC93C92CAF415D00F3DE08 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EC93C82CAF415700F3DE08 /* Extension.swift */; };
+		C0EC93CD2CAFEA0A00F3DE08 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EC93CC2CAFE9FB00F3DE08 /* ToDoListItemViewViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		C05FD6DC2CA8777800FE86DE /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		C05FD6DE2CA8823300FE86DE /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		C0EC93C82CAF415700F3DE08 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		C0EC93CC2CAFE9FB00F3DE08 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		C000D8102CA6192100FF065E /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				C0EC93CC2CAFE9FB00F3DE08 /* ToDoListItemViewViewModel.swift */,
 				C000D82D2CA61BFE00FF065E /* RegisterViewViewModel.swift */,
 				C000D81F2CA61B8900FF065E /* LoginViewViewModel.swift */,
 				C000D81D2CA61B7C00FF065E /* NewItemViewViewModel.swift */,
@@ -232,6 +235,7 @@
 				C000D82E2CA61C0400FF065E /* RegisterViewViewModel.swift in Sources */,
 				C000D81C2CA61B7600FF065E /* ToDoListViewViewModel.swift in Sources */,
 				C04A9C3C2CA08D5F0058A083 /* XCTestTodoListApp.swift in Sources */,
+				C0EC93CD2CAFEA0A00F3DE08 /* ToDoListItemViewViewModel.swift in Sources */,
 				C000D8162CA61B0D00FF065E /* ToDoListItem.swift in Sources */,
 				C000D82C2CA61BED00FF065E /* RegisterView.swift in Sources */,
 				C000D8202CA61B9300FF065E /* LoginViewViewModel.swift in Sources */,
