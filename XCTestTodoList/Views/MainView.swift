@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MainView: View {
     @StateObject var viewModel = MainViewViewModel()
-    // 1h41
+    // 2h18
     var body: some View {
         if viewModel.isSignedIn, !viewModel.currentUserId.isEmpty {
             accountView
