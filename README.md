@@ -1,4 +1,4 @@
-# MerchantAPI
+# XCTestTodoListApp
 Welcome! Here you will find an iOS app that was design to show some examples on how you can use XCTest to create E2E tests. :) 
 
 ## 💻 Getting started
